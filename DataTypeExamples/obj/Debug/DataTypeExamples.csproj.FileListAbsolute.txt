@@ -1,0 +1,7 @@
+C:\Training\Training\DataTypeExamples\bin\Debug\DataTypeExamples.exe.config
+C:\Training\Training\DataTypeExamples\bin\Debug\DataTypeExamples.exe
+C:\Training\Training\DataTypeExamples\bin\Debug\DataTypeExamples.pdb
+C:\Training\Training\DataTypeExamples\obj\Debug\DataTypeExamples.csprojResolveAssemblyReference.cache
+C:\Training\Training\DataTypeExamples\obj\Debug\DataTypeExamples.csproj.CoreCompileInputs.cache
+C:\Training\Training\DataTypeExamples\obj\Debug\DataTypeExamples.exe
+C:\Training\Training\DataTypeExamples\obj\Debug\DataTypeExamples.pdb
