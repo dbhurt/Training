@@ -28,6 +28,8 @@ namespace DataTypeExamples
             short s2 = (short)i;
             Console.WriteLine($"{s1} {s2}");
             Console.ReadLine();
+
+            //test
         }
     }
 }
